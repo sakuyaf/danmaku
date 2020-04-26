@@ -1,0 +1,36 @@
+.allpage{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fff0e2;
+    height: 2000px;
+}
+.image_login{
+    background-image: url("../登录和注册/login.png");
+}
+.input{
+    text-align: center;
+    margin: 0 auto;
+}
+.text{
+    text-align: right;
+    font-size: 72px;
+}
+.input1{
+    font-size: 72px;
+    width: 612px;
+    height: 95px;
+    position: relative;
+    left: 36px;
+    border-radius: 15px;
+}
+.row2{
+    position: relative;
+    top: 140px;
+}
+.row3{
+    position: relative;
+    top:300px;
+}
+.img{
+    padding-top: 414px;
+}

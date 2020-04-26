@@ -1,0 +1,72 @@
+.btn_login {
+    background-image: url("../登录和注册/buttonlogin.png");
+    width: 360px;
+    height: 244px;
+    margin-top: 300px;
+    position: relative;
+    right: 43px;
+    border: none;
+    background-color: transparent;
+}
+.btn_register1{
+    background-image: url("../登录和注册/buttonenroll.png");
+    width: 360px;
+    height: 244px;
+    margin-top: 300px;
+    position: relative;
+    left: 43px;
+    border: none;
+    background-color: transparent;
+}
+.btn_register2{
+    background-image: url("../登录和注册/buttonenroll.png");
+    width: 360px;
+    height: 244px;
+    margin-top: 500px;
+    border: none;
+    background-color: transparent;
+}
+.video_1{
+    background-image: url("../放视频/start.png");
+    width: 128px;
+    height: 128px;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    right: 500px;
+}
+.video_2{
+    background-image: url("../放视频/openbarrage.png");
+    width: 128px;
+    height: 128px;
+    border: none;
+    background-color: transparent;
+}
+.video_3{
+    background-image: url("../放视频/barragesetting.png");
+    width: 100px;
+    height: 66px;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    left: 30px;
+}
+.video_4{
+    background-image: url("../放视频/big.png");
+    width: 128px;
+    height: 128px;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    left: 500px;
+}
+.send{
+    width: 164px;
+    height: 99px;
+    border-radius: 15px;
+    font-size: 64px;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    background-color: #fff0e2;
+}

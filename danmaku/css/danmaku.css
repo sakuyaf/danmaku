@@ -1,0 +1,30 @@
+.allpage{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fff0e2;
+    height: 2000px;
+}
+.video{
+    border: none;
+    background-color: black;
+}
+.image{
+    padding-top: 100px;
+}
+.input{
+    width: 847px;
+    height: 99px;
+    border-radius: 15px;
+    font-size: 72px;
+    background-color: #fff0e2;
+}
+.bottom{
+    position: relative;
+    top: 900px;
+    background-color: #d2b48c;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.show{
+    position: relative;
+}
